@@ -90,7 +90,7 @@ it  will not  let  user  to  view  the  restful  services  datas..
 
 ===================================================================
 
-The  Pom.xml file  contents  should  contain the  given below  dependencies....
+The  Pom.xml file For Java10 version  contents  should  contain the  given below  dependencies....
 
 Pom.xml
 =======
@@ -112,7 +112,7 @@ Pom.xml
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>10</java.version>
 	</properties>
 
 	<dependencies>
